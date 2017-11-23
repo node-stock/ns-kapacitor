@@ -1,10 +1,10 @@
 {
   "name": "ns-kapacitor",
-  "version": "0.0.1",
-  "description": "node-stock influxdb module",
+  "version": "0.0.2",
+  "description": "node-stock kapacitor module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-stock/ns-influxdb"
+    "url": "https://github.com/node-stock/ns-kapacitor"
   },
   "license": "GPL3",
   "main": "dist/index.js",
